@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+dataset/marketing.sqlite3
+dataset/marketing.sqlite3-shm
+dataset/marketing.sqlite3-wal
+Marketing-Performance-Growth-Intelligence.zip
+.DS_Store

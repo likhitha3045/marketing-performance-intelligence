@@ -1,0 +1,68 @@
+-- Create a date table in Power BI Desktop and mark it as the model's date table.
+Date =
+CALENDAR (
+    MIN ( marketing_spend[activity_date] ),
+    MAX ( marketing_spend[activity_date] )
+)
+
+Year = YEAR ( 'Date'[Date] )
+Month = FORMAT ( 'Date'[Date], "MMM" )
+Year Month = FORMAT ( 'Date'[Date], "YYYY-MM" )
+
+-- Explicit measures. Create each measure separately in the model.
+Total Revenue =
+CALCULATE (
+    SUM ( conversions[revenue] ),
+    USERELATIONSHIP ( 'Date'[Date], conversions[conversion_date] )
+)
+
+Total Spend = SUM ( marketing_spend[spend] )
+
+Total Impressions = SUM ( marketing_spend[impressions] )
+
+Total Clicks = SUM ( marketing_spend[clicks] )
+
+Total Leads =
+CALCULATE (
+    DISTINCTCOUNT ( leads[lead_id] ),
+    USERELATIONSHIP ( 'Date'[Date], leads[lead_date] )
+)
+
+Total Conversions =
+CALCULATE (
+    DISTINCTCOUNT ( conversions[conversion_id] ),
+    USERELATIONSHIP ( 'Date'[Date], conversions[conversion_date] )
+)
+
+Customers Acquired =
+CALCULATE (
+    DISTINCTCOUNT ( conversions[customer_id] ),
+    USERELATIONSHIP ( 'Date'[Date], conversions[conversion_date] )
+)
+
+CTR = DIVIDE ( [Total Clicks], [Total Impressions], 0 )
+
+CPC = DIVIDE ( [Total Spend], [Total Clicks], 0 )
+
+CPA = DIVIDE ( [Total Spend], [Total Conversions], 0 )
+
+Conversion Rate = DIVIDE ( [Total Conversions], [Total Clicks], 0 )
+
+ROAS = DIVIDE ( [Total Revenue], [Total Spend], 0 )
+
+Marketing Return =
+DIVIDE ( [Total Revenue] - [Total Spend], [Total Spend], 0 )
+
+Average Revenue per Customer =
+DIVIDE ( [Total Revenue], [Customers Acquired], 0 )
+
+Repeat Customers =
+COUNTROWS (
+    FILTER (
+        VALUES ( conversions[customer_id] ),
+        CALCULATE ( [Total Conversions] ) > 1
+    )
+)
+
+Repeat Customer Rate =
+DIVIDE ( [Repeat Customers], [Customers Acquired], 0 )

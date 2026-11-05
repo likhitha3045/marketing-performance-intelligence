@@ -1,0 +1,751 @@
+customer_id,region,segment,signup_date
+1,East,New,2024-02-27
+2,West,New,2024-11-14
+3,West,New,2024-10-24
+4,Central,New,2024-07-16
+5,Central,Returning,2024-06-27
+6,North,At Risk,2024-03-02
+7,East,High Value,2024-08-21
+8,East,High Value,2024-09-08
+9,West,Returning,2024-04-27
+10,International,Returning,2024-11-14
+11,International,At Risk,2024-03-27
+12,South,High Value,2024-05-27
+13,North,Returning,2024-02-29
+14,Central,New,2024-11-02
+15,West,New,2024-03-28
+16,Central,New,2024-10-25
+17,North,New,2024-05-30
+18,East,At Risk,2024-12-05
+19,Central,New,2024-04-15
+20,North,New,2024-08-27
+21,North,At Risk,2024-07-29
+22,West,At Risk,2024-10-20
+23,Central,New,2024-11-14
+24,International,At Risk,2024-11-06
+25,West,New,2024-10-25
+26,North,New,2024-12-05
+27,Central,New,2024-01-07
+28,North,New,2024-05-23
+29,East,Returning,2024-12-08
+30,Central,New,2024-08-24
+31,East,New,2024-08-04
+32,South,At Risk,2024-09-01
+33,West,Returning,2024-12-08
+34,International,New,2024-06-24
+35,North,Returning,2024-02-01
+36,North,Returning,2024-07-31
+37,West,High Value,2024-02-10
+38,International,Returning,2024-11-30
+39,North,Returning,2024-12-14
+40,East,Returning,2024-07-04
+41,West,New,2024-11-11
+42,South,Returning,2024-09-27
+43,Central,New,2024-01-12
+44,East,Returning,2024-02-09
+45,West,At Risk,2024-05-15
+46,North,At Risk,2024-04-27
+47,North,New,2024-08-15
+48,West,New,2024-04-02
+49,North,New,2024-04-21
+50,North,New,2024-01-08
+51,West,At Risk,2024-02-23
+52,West,Returning,2024-03-25
+53,South,At Risk,2024-12-04
+54,North,New,2024-03-15
+55,South,New,2024-09-29
+56,Central,New,2024-12-02
+57,International,New,2024-03-18
+58,Central,New,2024-06-13
+59,Central,Returning,2024-07-29
+60,East,New,2024-08-22
+61,West,New,2024-07-01
+62,International,New,2024-09-27
+63,East,New,2024-09-27
+64,South,New,2024-06-29
+65,International,High Value,2024-04-22
+66,North,New,2024-06-20
+67,Central,New,2024-10-10
+68,North,High Value,2024-06-22
+69,North,Returning,2024-03-18
+70,South,High Value,2024-02-09
+71,International,At Risk,2024-08-04
+72,International,Returning,2024-11-22
+73,East,At Risk,2024-09-12
+74,Central,Returning,2024-09-07
+75,North,New,2024-11-05
+76,South,High Value,2024-12-14
+77,North,Returning,2024-02-26
+78,International,New,2024-10-04
+79,North,Returning,2024-10-03
+80,East,Returning,2024-06-27
+81,South,New,2024-01-05
+82,International,New,2024-07-01
+83,International,New,2024-05-13
+84,North,New,2024-09-14
+85,West,High Value,2024-01-21
+86,International,New,2024-05-03
+87,East,At Risk,2024-06-11
+88,West,New,2024-12-24
+89,West,Returning,2024-10-06
+90,East,New,2024-03-24
+91,South,New,2024-11-30
+92,Central,At Risk,2024-06-15
+93,West,New,2024-07-13
+94,South,At Risk,2024-09-23
+95,North,New,2024-02-25
+96,International,Returning,2024-10-10
+97,International,New,2024-03-29
+98,West,Returning,2024-12-28
+99,South,New,2024-02-23
+100,East,New,2024-06-15
+101,North,New,2024-05-19
+102,North,New,2024-10-07
+103,North,High Value,2024-01-21
+104,West,Returning,2024-03-02
+105,International,New,2024-09-06
+106,International,At Risk,2024-08-29
+107,West,New,2024-08-11
+108,East,At Risk,2024-01-13
+109,East,New,2024-08-10
+110,East,At Risk,2024-10-17
+111,South,Returning,2024-10-24
+112,West,Returning,2024-08-17
+113,East,New,2024-09-28
+114,South,High Value,2024-04-22
+115,North,Returning,2024-01-19
+116,International,Returning,2024-03-24
+117,Central,High Value,2024-07-28
+118,South,New,2024-10-22
+119,North,New,2024-09-16
+120,North,Returning,2024-02-10
+121,East,New,2024-11-26
+122,East,Returning,2024-04-08
+123,West,New,2024-06-23
+124,South,New,2024-02-20
+125,North,New,2024-02-13
+126,Central,New,2024-09-02
+127,East,Returning,2024-02-29
+128,East,New,2024-08-28
+129,International,Returning,2024-01-11
+130,South,High Value,2024-01-29
+131,International,Returning,2024-01-31
+132,International,New,2024-05-27
+133,West,High Value,2024-09-19
+134,East,Returning,2024-06-03
+135,North,Returning,2024-02-05
+136,West,High Value,2024-12-15
+137,North,Returning,2024-01-09
+138,West,Returning,2024-11-22
+139,West,New,2024-03-26
+140,North,New,2024-08-28
+141,International,New,2024-05-13
+142,South,At Risk,2024-04-12
+143,West,Returning,2024-10-29
+144,Central,New,2024-05-13
+145,North,New,2024-01-19
+146,South,Returning,2024-05-19
+147,Central,Returning,2024-02-08
+148,Central,At Risk,2024-04-29
+149,East,New,2024-07-29
+150,South,Returning,2024-08-14
+151,West,New,2024-03-07
+152,West,Returning,2024-05-25
+153,Central,New,2024-04-25
+154,International,New,2024-03-11
+155,International,New,2024-02-26
+156,North,Returning,2024-07-14
+157,South,Returning,2024-05-03
+158,International,New,2024-04-28
+159,West,New,2024-02-26
+160,International,Returning,2024-03-02
+161,East,New,2024-10-05
+162,International,Returning,2024-06-22
+163,North,Returning,2024-07-17
+164,East,New,2024-07-19
+165,West,New,2024-03-29
+166,Central,New,2024-10-22
+167,East,New,2024-11-18
+168,Central,Returning,2024-02-27
+169,International,New,2024-09-15
+170,South,New,2024-04-20
+171,East,Returning,2024-09-17
+172,West,New,2024-11-10
+173,International,New,2024-06-25
+174,South,New,2024-06-07
+175,East,New,2024-09-08
+176,International,High Value,2024-07-26
+177,East,Returning,2024-12-10
+178,West,New,2024-10-08
+179,East,Returning,2024-11-29
+180,South,Returning,2024-04-09
+181,North,New,2024-05-04
+182,Central,At Risk,2024-04-06
+183,International,At Risk,2024-04-04
+184,Central,Returning,2024-11-08
+185,Central,New,2024-10-27
+186,South,Returning,2024-08-19
+187,South,New,2024-04-30
+188,Central,Returning,2024-03-07
+189,East,Returning,2024-01-29
+190,International,New,2024-12-27
+191,Central,New,2024-08-15
+192,South,Returning,2024-03-16
+193,South,High Value,2024-05-21
+194,West,New,2024-03-05
+195,East,High Value,2024-04-16
+196,Central,New,2024-10-23
+197,West,At Risk,2024-12-20
+198,East,At Risk,2024-10-08
+199,Central,New,2024-05-31
+200,Central,Returning,2024-12-20
+201,Central,New,2024-11-17
+202,Central,New,2024-03-15
+203,International,New,2024-02-24
+204,South,Returning,2024-04-04
+205,International,Returning,2024-11-21
+206,West,New,2024-07-06
+207,West,New,2024-04-21
+208,East,Returning,2024-03-30
+209,Central,New,2024-09-02
+210,International,New,2024-11-08
+211,West,New,2024-09-20
+212,West,New,2024-02-04
+213,South,New,2024-12-17
+214,East,New,2024-05-19
+215,International,Returning,2024-03-23
+216,West,New,2024-01-17
+217,South,New,2024-10-30
+218,North,Returning,2024-08-22
+219,North,New,2024-12-28
+220,Central,Returning,2024-10-21
+221,International,New,2024-02-07
+222,South,New,2024-02-18
+223,Central,New,2024-05-14
+224,North,New,2024-04-24
+225,Central,New,2024-12-25
+226,South,At Risk,2024-08-18
+227,North,Returning,2024-01-18
+228,East,Returning,2024-06-01
+229,South,Returning,2024-03-15
+230,Central,Returning,2024-04-17
+231,West,New,2024-08-30
+232,North,New,2024-01-16
+233,Central,At Risk,2024-12-26
+234,East,At Risk,2024-08-02
+235,South,Returning,2024-04-24
+236,South,New,2024-10-02
+237,South,New,2024-03-07
+238,International,New,2024-10-17
+239,West,New,2024-04-16
+240,South,Returning,2024-02-05
+241,International,At Risk,2024-10-05
+242,West,Returning,2024-04-21
+243,West,High Value,2024-10-29
+244,Central,New,2024-01-29
+245,South,New,2024-01-03
+246,East,New,2024-09-16
+247,Central,Returning,2024-03-29
+248,East,Returning,2024-09-22
+249,Central,New,2024-09-27
+250,International,New,2024-08-12
+251,South,Returning,2024-08-29
+252,West,High Value,2024-10-03
+253,North,New,2024-02-29
+254,South,New,2024-01-25
+255,West,At Risk,2024-09-13
+256,North,At Risk,2024-02-09
+257,West,Returning,2024-10-25
+258,Central,New,2024-02-23
+259,South,At Risk,2024-02-25
+260,East,Returning,2024-07-13
+261,Central,Returning,2024-07-05
+262,North,New,2024-11-17
+263,South,New,2024-11-25
+264,South,Returning,2024-12-14
+265,West,Returning,2024-12-01
+266,International,New,2024-02-28
+267,South,Returning,2024-01-14
+268,Central,New,2024-07-21
+269,West,High Value,2024-12-09
+270,West,Returning,2024-07-20
+271,North,Returning,2024-04-07
+272,Central,New,2024-12-14
+273,North,New,2024-11-07
+274,South,New,2024-08-01
+275,South,High Value,2024-04-21
+276,East,New,2024-09-01
+277,North,At Risk,2024-09-19
+278,North,Returning,2024-07-11
+279,International,New,2024-07-01
+280,South,New,2024-06-13
+281,South,New,2024-11-29
+282,West,New,2024-06-20
+283,South,New,2024-04-03
+284,East,New,2024-09-06
+285,International,At Risk,2024-02-10
+286,International,New,2024-01-19
+287,North,At Risk,2024-05-21
+288,East,At Risk,2024-04-20
+289,South,New,2024-08-04
+290,West,New,2024-11-07
+291,International,New,2024-02-23
+292,South,New,2024-03-03
+293,North,New,2024-03-24
+294,South,At Risk,2024-05-10
+295,International,New,2024-11-07
+296,Central,Returning,2024-09-15
+297,East,Returning,2024-10-25
+298,East,Returning,2024-09-22
+299,International,High Value,2024-08-10
+300,East,Returning,2024-08-10
+301,East,At Risk,2024-04-14
+302,Central,Returning,2024-12-09
+303,North,New,2024-09-06
+304,South,New,2024-03-25
+305,East,At Risk,2024-06-02
+306,Central,Returning,2024-12-22
+307,International,At Risk,2024-10-12
+308,International,High Value,2024-02-09
+309,International,New,2024-11-14
+310,North,Returning,2024-04-28
+311,International,Returning,2024-11-24
+312,Central,New,2024-08-28
+313,International,New,2024-03-08
+314,South,New,2024-06-02
+315,Central,New,2024-04-29
+316,East,Returning,2024-08-03
+317,Central,High Value,2024-01-13
+318,East,New,2024-03-26
+319,East,New,2024-03-08
+320,North,At Risk,2024-02-11
+321,West,Returning,2024-10-24
+322,Central,At Risk,2024-10-05
+323,North,At Risk,2024-04-23
+324,International,Returning,2024-10-03
+325,International,Returning,2024-05-05
+326,International,New,2024-02-15
+327,North,Returning,2024-01-13
+328,International,New,2024-05-09
+329,South,High Value,2024-06-14
+330,International,New,2024-12-31
+331,South,New,2024-07-06
+332,South,High Value,2024-11-08
+333,East,New,2024-02-14
+334,South,New,2024-11-16
+335,West,Returning,2024-01-13
+336,Central,At Risk,2024-06-02
+337,South,High Value,2024-10-14
+338,East,New,2024-04-10
+339,International,At Risk,2024-09-11
+340,South,New,2024-08-17
+341,Central,Returning,2024-06-14
+342,South,New,2024-07-27
+343,East,New,2024-10-25
+344,International,At Risk,2024-02-19
+345,North,New,2024-11-29
+346,International,Returning,2024-05-03
+347,East,New,2024-01-07
+348,International,Returning,2024-06-04
+349,Central,New,2024-09-21
+350,North,New,2024-04-15
+351,International,New,2024-06-17
+352,West,Returning,2024-03-20
+353,Central,At Risk,2024-07-04
+354,South,Returning,2024-09-11
+355,Central,New,2024-01-22
+356,North,New,2024-06-10
+357,Central,New,2024-08-23
+358,East,New,2024-10-28
+359,South,Returning,2024-10-27
+360,South,Returning,2024-09-16
+361,South,New,2024-05-05
+362,International,Returning,2024-08-02
+363,East,Returning,2024-02-27
+364,International,At Risk,2024-08-13
+365,North,New,2024-10-03
+366,South,New,2024-10-18
+367,West,New,2024-09-22
+368,North,New,2024-09-21
+369,Central,High Value,2024-02-13
+370,East,New,2024-07-04
+371,South,Returning,2024-11-29
+372,International,New,2024-10-16
+373,North,At Risk,2024-09-14
+374,West,New,2024-08-13
+375,North,Returning,2024-05-13
+376,North,New,2024-05-03
+377,North,Returning,2024-10-03
+378,East,New,2024-12-20
+379,West,New,2025-01-01
+380,South,New,2024-02-11
+381,North,At Risk,2024-10-15
+382,Central,Returning,2024-12-17
+383,West,At Risk,2024-05-27
+384,South,Returning,2024-11-19
+385,West,Returning,2024-08-26
+386,South,Returning,2024-10-17
+387,South,High Value,2024-04-06
+388,International,At Risk,2024-04-27
+389,Central,New,2024-08-21
+390,North,New,2024-11-10
+391,Central,New,2024-09-04
+392,South,New,2024-10-24
+393,International,At Risk,2024-04-18
+394,West,High Value,2024-06-04
+395,International,At Risk,2024-02-13
+396,North,New,2024-04-30
+397,West,New,2024-10-28
+398,Central,High Value,2024-03-07
+399,Central,New,2024-01-15
+400,North,High Value,2024-09-08
+401,North,New,2024-04-07
+402,International,New,2024-07-03
+403,East,Returning,2024-04-07
+404,South,New,2024-12-15
+405,East,High Value,2024-01-10
+406,West,New,2024-04-22
+407,East,Returning,2024-11-12
+408,North,New,2024-02-27
+409,Central,High Value,2024-01-26
+410,Central,At Risk,2024-10-19
+411,East,Returning,2024-12-12
+412,South,New,2024-11-23
+413,West,New,2024-04-09
+414,West,High Value,2024-05-17
+415,Central,New,2024-09-27
+416,North,Returning,2024-04-07
+417,West,Returning,2024-08-02
+418,North,New,2024-08-30
+419,West,Returning,2024-08-21
+420,West,Returning,2024-07-30
+421,West,New,2024-02-23
+422,West,Returning,2024-07-03
+423,North,New,2024-02-28
+424,Central,New,2024-03-28
+425,South,New,2024-01-30
+426,West,Returning,2024-12-22
+427,International,New,2024-08-05
+428,North,Returning,2024-07-30
+429,East,New,2024-07-24
+430,North,New,2024-04-29
+431,South,New,2024-08-22
+432,West,New,2024-11-05
+433,Central,New,2024-10-27
+434,Central,New,2024-11-01
+435,East,New,2024-01-02
+436,East,At Risk,2024-11-25
+437,Central,New,2024-01-30
+438,South,New,2024-11-01
+439,South,Returning,2024-12-03
+440,East,Returning,2024-04-06
+441,Central,Returning,2024-06-11
+442,Central,New,2024-05-17
+443,East,New,2024-06-01
+444,North,Returning,2024-04-09
+445,International,Returning,2024-02-01
+446,International,New,2024-08-10
+447,Central,New,2024-05-09
+448,Central,Returning,2024-03-22
+449,East,New,2024-02-03
+450,North,New,2024-08-10
+451,South,New,2024-01-21
+452,South,High Value,2024-04-13
+453,West,High Value,2024-08-27
+454,South,At Risk,2024-05-12
+455,West,High Value,2024-06-03
+456,South,Returning,2024-06-10
+457,East,New,2024-08-21
+458,North,Returning,2024-06-30
+459,International,New,2024-05-29
+460,South,At Risk,2024-08-25
+461,East,Returning,2024-03-21
+462,South,New,2024-11-28
+463,International,Returning,2024-01-16
+464,North,New,2024-02-28
+465,International,New,2024-11-20
+466,North,New,2024-01-22
+467,International,New,2024-05-22
+468,South,Returning,2024-08-17
+469,West,New,2024-08-02
+470,International,High Value,2024-04-14
+471,West,New,2024-12-04
+472,North,New,2024-11-18
+473,West,Returning,2024-06-13
+474,North,New,2024-12-07
+475,International,New,2024-01-13
+476,West,Returning,2024-10-08
+477,International,High Value,2024-09-10
+478,West,New,2024-09-11
+479,International,New,2024-07-06
+480,South,At Risk,2024-10-30
+481,Central,Returning,2024-03-05
+482,South,Returning,2024-02-20
+483,South,High Value,2024-11-26
+484,International,Returning,2024-11-05
+485,South,New,2024-06-22
+486,North,New,2024-05-08
+487,Central,Returning,2024-04-11
+488,North,New,2024-07-16
+489,West,New,2024-05-04
+490,East,New,2024-11-09
+491,International,New,2024-01-30
+492,Central,Returning,2024-07-17
+493,International,Returning,2024-06-07
+494,International,High Value,2024-08-11
+495,International,Returning,2024-09-01
+496,East,New,2024-12-20
+497,International,New,2024-04-30
+498,South,New,2024-10-08
+499,Central,New,2024-03-18
+500,West,Returning,2024-10-18
+501,South,At Risk,2024-07-08
+502,East,New,2024-05-06
+503,South,New,2024-08-14
+504,East,New,2024-03-09
+505,East,High Value,2024-09-17
+506,International,New,2024-04-04
+507,Central,Returning,2024-04-15
+508,International,New,2024-01-14
+509,East,New,2024-12-23
+510,North,Returning,2024-12-23
+511,International,High Value,2024-01-04
+512,Central,Returning,2024-12-19
+513,South,Returning,2024-12-21
+514,South,New,2024-11-10
+515,Central,New,2024-06-15
+516,International,At Risk,2024-04-05
+517,Central,Returning,2024-08-08
+518,North,High Value,2024-10-15
+519,Central,Returning,2024-12-30
+520,East,Returning,2024-10-31
+521,West,New,2024-02-15
+522,West,High Value,2024-12-28
+523,West,New,2024-08-10
+524,North,Returning,2024-03-21
+525,South,At Risk,2024-10-21
+526,South,New,2024-05-25
+527,North,Returning,2024-07-31
+528,West,Returning,2024-10-30
+529,South,New,2024-02-25
+530,North,New,2024-07-01
+531,West,High Value,2024-10-06
+532,East,At Risk,2024-07-28
+533,International,Returning,2024-11-26
+534,West,At Risk,2024-07-23
+535,West,New,2024-08-07
+536,South,New,2024-04-10
+537,Central,High Value,2024-12-07
+538,West,New,2024-03-19
+539,Central,Returning,2024-03-13
+540,South,Returning,2024-04-10
+541,International,Returning,2024-03-14
+542,International,New,2024-09-15
+543,South,New,2024-05-13
+544,East,New,2024-05-28
+545,Central,New,2024-11-29
+546,Central,New,2024-07-27
+547,East,New,2024-08-31
+548,North,New,2024-01-03
+549,South,New,2024-09-01
+550,South,New,2024-11-23
+551,East,Returning,2024-03-08
+552,South,New,2024-04-20
+553,International,New,2024-11-10
+554,South,New,2024-02-07
+555,North,New,2024-10-01
+556,South,High Value,2024-07-29
+557,West,Returning,2024-12-03
+558,Central,New,2024-09-02
+559,West,New,2024-04-17
+560,West,New,2024-05-08
+561,International,New,2024-06-15
+562,West,New,2024-01-13
+563,East,Returning,2024-02-04
+564,East,New,2024-12-08
+565,International,New,2024-05-19
+566,International,Returning,2024-04-30
+567,International,High Value,2024-11-03
+568,South,New,2024-02-24
+569,East,New,2024-12-31
+570,West,At Risk,2024-06-14
+571,South,New,2024-08-11
+572,South,New,2024-07-01
+573,International,Returning,2024-06-01
+574,Central,At Risk,2024-02-15
+575,South,New,2024-07-19
+576,Central,New,2024-06-15
+577,West,New,2024-01-13
+578,South,Returning,2024-10-20
+579,Central,At Risk,2024-10-27
+580,East,At Risk,2024-01-31
+581,East,At Risk,2024-07-29
+582,West,High Value,2024-01-04
+583,East,Returning,2024-01-06
+584,West,New,2024-06-14
+585,South,Returning,2024-05-31
+586,Central,New,2024-08-31
+587,International,High Value,2024-02-12
+588,West,New,2024-12-27
+589,Central,Returning,2024-11-22
+590,North,New,2024-08-29
+591,North,Returning,2024-05-01
+592,North,New,2024-09-20
+593,International,New,2024-04-16
+594,International,New,2024-08-31
+595,West,Returning,2024-06-08
+596,East,Returning,2024-05-25
+597,West,High Value,2024-10-04
+598,Central,Returning,2024-10-14
+599,Central,New,2024-12-13
+600,Central,New,2024-09-10
+601,Central,Returning,2024-05-26
+602,East,New,2024-07-20
+603,South,Returning,2024-04-03
+604,South,At Risk,2024-10-13
+605,East,New,2024-06-19
+606,West,New,2024-05-10
+607,East,New,2024-03-15
+608,South,Returning,2024-06-01
+609,North,New,2024-07-18
+610,West,New,2024-11-16
+611,Central,Returning,2024-10-05
+612,South,Returning,2024-10-30
+613,Central,At Risk,2024-10-20
+614,West,At Risk,2025-01-01
+615,International,New,2024-03-22
+616,Central,At Risk,2024-08-25
+617,South,High Value,2025-01-01
+618,Central,New,2024-09-23
+619,South,At Risk,2024-10-25
+620,East,Returning,2024-03-07
+621,Central,New,2024-03-23
+622,International,Returning,2024-03-25
+623,South,High Value,2024-02-07
+624,International,Returning,2024-07-28
+625,East,New,2024-12-03
+626,International,High Value,2024-11-19
+627,International,Returning,2024-09-16
+628,North,Returning,2024-12-17
+629,South,Returning,2024-02-29
+630,Central,New,2024-11-01
+631,North,New,2024-09-10
+632,East,New,2024-03-13
+633,South,New,2024-09-01
+634,North,High Value,2024-09-11
+635,West,Returning,2024-10-21
+636,West,Returning,2024-05-20
+637,International,New,2024-04-16
+638,North,New,2024-01-09
+639,International,At Risk,2024-10-28
+640,Central,New,2024-12-24
+641,Central,New,2024-03-25
+642,North,Returning,2024-05-03
+643,West,Returning,2024-10-18
+644,West,Returning,2024-04-03
+645,Central,Returning,2024-04-05
+646,West,Returning,2024-09-19
+647,South,At Risk,2024-05-05
+648,South,New,2024-10-03
+649,East,Returning,2024-01-25
+650,West,New,2024-07-13
+651,South,At Risk,2024-11-13
+652,West,New,2024-04-21
+653,Central,Returning,2024-05-19
+654,West,At Risk,2024-09-20
+655,North,New,2024-05-11
+656,Central,New,2024-12-29
+657,South,New,2024-01-27
+658,East,New,2024-04-06
+659,Central,New,2024-09-02
+660,East,New,2024-08-11
+661,Central,New,2024-02-16
+662,International,At Risk,2024-11-10
+663,East,Returning,2024-05-04
+664,International,New,2024-11-13
+665,North,New,2024-10-27
+666,International,New,2024-05-15
+667,South,New,2024-07-12
+668,International,New,2024-04-07
+669,International,Returning,2024-12-01
+670,Central,Returning,2024-01-21
+671,West,New,2024-10-28
+672,East,Returning,2024-01-30
+673,North,New,2024-10-25
+674,West,New,2024-05-16
+675,East,Returning,2024-11-13
+676,West,Returning,2024-10-01
+677,South,High Value,2024-07-02
+678,West,At Risk,2024-05-07
+679,North,At Risk,2024-05-28
+680,East,New,2024-02-15
+681,East,At Risk,2024-06-17
+682,International,New,2024-10-06
+683,East,Returning,2024-06-27
+684,West,High Value,2024-05-22
+685,North,New,2024-12-15
+686,Central,New,2024-07-29
+687,West,At Risk,2024-10-22
+688,East,New,2024-03-02
+689,Central,New,2024-08-29
+690,West,Returning,2024-12-12
+691,International,New,2024-11-27
+692,South,At Risk,2024-06-09
+693,South,New,2024-11-20
+694,East,New,2024-06-20
+695,Central,New,2024-07-26
+696,South,New,2024-07-21
+697,International,New,2024-04-05
+698,North,At Risk,2024-11-04
+699,North,New,2024-11-03
+700,Central,New,2024-12-02
+701,West,New,2024-07-17
+702,South,Returning,2024-01-15
+703,South,New,2024-11-18
+704,International,New,2024-11-12
+705,International,At Risk,2024-11-15
+706,North,New,2024-05-04
+707,International,Returning,2024-11-23
+708,East,At Risk,2024-02-01
+709,North,New,2024-07-20
+710,West,New,2024-07-19
+711,International,Returning,2024-06-24
+712,West,New,2024-06-11
+713,International,Returning,2024-01-13
+714,West,New,2024-02-21
+715,International,New,2024-06-18
+716,West,New,2024-04-07
+717,South,Returning,2024-04-28
+718,South,New,2024-07-19
+719,West,High Value,2024-02-16
+720,North,High Value,2024-01-16
+721,East,New,2024-02-13
+722,North,New,2024-08-02
+723,East,Returning,2024-04-06
+724,International,New,2024-09-13
+725,North,At Risk,2024-05-02
+726,South,New,2024-07-31
+727,North,New,2024-10-20
+728,North,Returning,2024-08-09
+729,North,New,2024-03-25
+730,North,New,2024-12-03
+731,West,New,2024-01-15
+732,North,At Risk,2024-08-21
+733,South,At Risk,2024-02-04
+734,West,New,2024-02-19
+735,South,Returning,2024-02-01
+736,South,New,2024-01-27
+737,East,New,2024-03-26
+738,West,High Value,2024-03-20
+739,North,At Risk,2024-10-16
+740,Central,New,2024-06-06
+741,North,Returning,2024-05-27
+742,International,New,2024-07-24
+743,West,High Value,2024-08-17
+744,South,Returning,2024-05-18
+745,West,New,2024-05-17
+746,International,Returning,2024-02-07
+747,North,New,2024-03-13
+748,International,Returning,2024-12-08
+749,Central,New,2024-05-09
+750,North,New,2024-02-11

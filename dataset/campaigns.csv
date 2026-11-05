@@ -1,0 +1,25 @@
+campaign_id,campaign_name,campaign_type,channel_id,budget,start_date,end_date,status
+1,Google Ads - Campaign 01,Awareness,1,617013.58,2025-01-01,2025-07-29,Completed
+2,Facebook Ads - Campaign 02,Acquisition,2,752973.75,2025-01-01,2025-07-29,Completed
+3,Instagram - Campaign 03,Retargeting,3,555111.0,2025-01-01,2025-07-29,Completed
+4,Email Marketing - Campaign 04,Retention,4,529622.86,2025-01-01,2025-07-29,Completed
+5,Organic Search - Campaign 05,Awareness,5,325135.9,2025-01-01,2025-07-29,Completed
+6,Referral Marketing - Campaign 06,Acquisition,6,577963.0,2025-01-01,2025-07-29,Completed
+7,Google Ads - Campaign 07,Retargeting,1,378339.96,2025-01-01,2025-07-29,Completed
+8,Facebook Ads - Campaign 08,Retention,2,692978.26,2025-01-01,2025-07-29,Completed
+9,Instagram - Campaign 09,Awareness,3,329624.04,2025-01-01,2025-07-29,Completed
+10,Email Marketing - Campaign 10,Acquisition,4,677403.28,2025-01-01,2025-07-29,Completed
+11,Organic Search - Campaign 11,Retargeting,5,345647.38,2025-01-01,2025-07-29,Completed
+12,Referral Marketing - Campaign 12,Retention,6,706603.55,2025-01-01,2025-07-29,Completed
+13,Google Ads - Campaign 13,Awareness,1,756812.85,2025-01-01,2025-07-29,Completed
+14,Facebook Ads - Campaign 14,Acquisition,2,463154.09,2025-01-01,2025-07-29,Completed
+15,Instagram - Campaign 15,Retargeting,3,611470.5,2025-01-01,2025-07-29,Completed
+16,Email Marketing - Campaign 16,Retention,4,536709.57,2025-01-01,2025-07-29,Completed
+17,Organic Search - Campaign 17,Awareness,5,606184.87,2025-01-01,2025-07-29,Completed
+18,Referral Marketing - Campaign 18,Acquisition,6,347016.9,2025-01-01,2025-07-29,Completed
+19,Google Ads - Campaign 19,Retargeting,1,557773.55,2025-01-01,2025-07-29,Completed
+20,Facebook Ads - Campaign 20,Retention,2,442794.67,2025-01-01,2025-07-29,Completed
+21,Instagram - Campaign 21,Awareness,3,397434.7,2025-01-01,2025-07-29,Completed
+22,Email Marketing - Campaign 22,Acquisition,4,604847.41,2025-01-01,2025-07-29,Completed
+23,Organic Search - Campaign 23,Retargeting,5,495673.1,2025-01-01,2025-07-29,Completed
+24,Referral Marketing - Campaign 24,Retention,6,350441.07,2025-01-01,2025-07-29,Completed
