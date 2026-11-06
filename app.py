@@ -48,13 +48,27 @@ st.markdown(
     [data-testid="stSidebar"] * { color: #eef2ff; }
     [data-testid="stSidebar"] [data-testid="stCaptionContainer"] { color: #9daac2; }
     [data-testid="stSidebar"] [data-baseweb="select"] *,
-    [data-testid="stSidebar"] [data-testid="stDateInput"] input,
-    [data-testid="stSidebar"] [data-testid="stTextInput"] input,
-    [data-testid="stSidebar"] [data-testid="stNumberInput"] input {
-      color: #14213d !important;
+    [data-testid="stSidebar"] [data-testid="stDateInput"] *,
+    [data-testid="stSidebar"] [data-testid="stTextInput"] *,
+    [data-testid="stSidebar"] [data-testid="stNumberInput"] *,
+    [data-testid="stSidebar"] [data-baseweb="input"] *,
+    [data-testid="stSidebar"] [data-baseweb="datepicker"] * {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
+    }
+    [data-testid="stSidebar"] [data-baseweb="select"],
+    [data-testid="stSidebar"] [data-baseweb="input"] > div,
+    [data-testid="stSidebar"] [data-testid="stDateInput"] > div > div {
+      background-color: #ffffff !important;
     }
     [data-testid="stSidebar"] [data-baseweb="select"] svg {
-      fill: #475569;
+      fill: #000000 !important;
+    }
+    [data-testid="stSidebar"] input::placeholder {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
     }
     [data-testid="stMetric"] {
       background: white; border: 1px solid var(--line); padding: 18px 20px;
