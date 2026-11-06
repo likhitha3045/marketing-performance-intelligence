@@ -44,27 +44,21 @@ st.markdown(
     .stApp { background: #f7f8fb; }
     h1, h2, h3 { font-family: "Segoe UI", Arial, sans-serif; color: var(--ink); letter-spacing: -0.035em; }
     h1 { font-size: 2rem; }
-    [data-testid="stSidebar"] { background: #101b32; }
-    [data-testid="stSidebar"] * { color: #eef2ff; }
-    [data-testid="stSidebar"] [data-testid="stCaptionContainer"] { color: #9daac2; }
-    [data-testid="stSidebar"] [data-baseweb="select"] *,
-    [data-testid="stSidebar"] [data-testid="stDateInput"] *,
-    [data-testid="stSidebar"] [data-testid="stTextInput"] *,
-    [data-testid="stSidebar"] [data-testid="stNumberInput"] *,
-    [data-testid="stSidebar"] [data-baseweb="input"] *,
-    [data-testid="stSidebar"] [data-baseweb="datepicker"] * {
+    [data-testid="stSidebar"] { background: #f0f3f8; }
+    [data-testid="stSidebar"] * {
       color: #000000 !important;
       -webkit-text-fill-color: #000000 !important;
-      opacity: 1 !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stCaptionContainer"] * {
+      color: #475569 !important;
+      -webkit-text-fill-color: #475569 !important;
     }
     [data-testid="stSidebar"] [data-baseweb="select"],
     [data-testid="stSidebar"] [data-baseweb="input"] > div,
     [data-testid="stSidebar"] [data-testid="stDateInput"] > div > div {
       background-color: #ffffff !important;
     }
-    [data-testid="stSidebar"] [data-baseweb="select"] svg {
-      fill: #000000 !important;
-    }
+    [data-testid="stSidebar"] svg { fill: #000000 !important; }
     [data-testid="stSidebar"] input::placeholder {
       color: #000000 !important;
       -webkit-text-fill-color: #000000 !important;
