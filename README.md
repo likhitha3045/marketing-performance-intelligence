@@ -14,6 +14,27 @@ A portfolio-ready marketing analytics product for exploring campaign performance
 - Power BI model setup and DAX measures. The `.pbix` report is authored and saved in Power BI Desktop using the included CSVs; this repository does not contain a generated PBIX binary.
 - Product brief, personas, PRD, stories, roadmap, KPI framework, wireframe notes, and test cases.
 
+## Portfolio summary
+
+**Marketing Performance & Growth Intelligence** is a deployed analytics portfolio project that demonstrates an end-to-end workflow for exploring marketing campaign performance. The included dataset is synthetic and designed for demonstration; findings should not be presented as real-company results.
+
+### Resume-ready project points
+
+- Built an interactive Streamlit dashboard with 11 modules to analyze campaign and channel performance, customer segments, conversion funnels, attributed revenue, and growth opportunities.
+- Created a reproducible Python data pipeline to generate, validate, and load synthetic marketing data into an indexed SQLite model with eight related tables.
+- Wrote 22 SQL analysis queries and implemented CTR, CPC, CPA, conversion rate, and ROAS calculations, aggregating spend and conversion facts independently to prevent duplicated totals.
+- Added schema-validated CSV uploads, evidence-backed analyst findings, and an exploratory monthly trend forecast with a two-month holdout error summary.
+- Enabled filtered campaign/channel CSV exports, PDF reports, and manager action tracking; prepared Power BI DAX and model setup instructions.
+- Documented the product requirements, personas, user stories, roadmap, KPI framework, limitations, and deployment process.
+
+### Skills demonstrated
+
+Python, pandas, NumPy, SQL, SQLite, Streamlit, Plotly, data validation, data visualization, KPI definition, dashboard design, product documentation, and deployment.
+
+### Project limitations to disclose
+
+The sample data is synthetic. The forecast is a simple linear baseline, recommendations are rule-based, ROAS is not net profit or causal lift, and authentication/durable team storage are not included. Do not claim business performance improvements from this demonstration.
+
 ## Run locally (Windows PowerShell)
 
 Use Python 3.11 or 3.12.
