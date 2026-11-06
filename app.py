@@ -47,6 +47,15 @@ st.markdown(
     [data-testid="stSidebar"] { background: #101b32; }
     [data-testid="stSidebar"] * { color: #eef2ff; }
     [data-testid="stSidebar"] [data-testid="stCaptionContainer"] { color: #9daac2; }
+    [data-testid="stSidebar"] [data-baseweb="select"] *,
+    [data-testid="stSidebar"] [data-testid="stDateInput"] input,
+    [data-testid="stSidebar"] [data-testid="stTextInput"] input,
+    [data-testid="stSidebar"] [data-testid="stNumberInput"] input {
+      color: #14213d !important;
+    }
+    [data-testid="stSidebar"] [data-baseweb="select"] svg {
+      fill: #475569;
+    }
     [data-testid="stMetric"] {
       background: white; border: 1px solid var(--line); padding: 18px 20px;
       border-radius: 14px; box-shadow: 0 2px 8px rgba(20,33,61,.03);
